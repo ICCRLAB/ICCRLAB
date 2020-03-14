@@ -136,7 +136,7 @@ window.onload = function (e) {
                         <a class="nav-link text-white" href="downloads.html">Downloads</a>
                       </li>
                       <li class="nav-item">
-                        <a class="nav-link text-white" href="#">Gallery</a>
+                        <a class="nav-link text-white" href="Gallary.html">Gallery</a>
                       </li>
 
                       <li class="nav-item">
