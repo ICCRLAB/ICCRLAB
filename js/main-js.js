@@ -14,10 +14,11 @@ window.onload = function (e) {
 
           <div class="col-12 col-sm col-md mb-0 text-center">
 
-            <h1 style="font-size: x-large; text-transform:uppercase">1st International Conference on Computational Research and Data Analytics</h1>
+            <h1 style="font-size: x-large; text-transform:uppercase">1<sup>st</sup> International Conference on Computational Research and Data Analytics</h1>
             <h1>ICCRDA-2020</h1>
 
             <h2 style="font-size:1.0rem;text-transform:uppercase">Organized by: Punjab Institute of Technology, Moga, Punjab, India</h2>
+             <h2 style="font-size:1.0rem;text-transform:uppercase">3rd October 2020</h2>
             <h3 style="font-size:1.0rem;text-transform:uppercase"> In Association With </h3>
 
             <hr id="hrr">
