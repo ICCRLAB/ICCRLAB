@@ -18,7 +18,7 @@ window.onload = function (e) {
             <h1>ICCRDA-2020</h1>
 
             <h2 style="font-size:1.0rem;text-transform:uppercase">Organized by: Punjab Institute of Technology, Rajpura, Punjab, India</h2>
-             <h2 style="font-size:1.0rem">3<sup>rd</sup> OCTOBER 2020</h2>
+             <h2 style="font-size:1.0rem">7<sup>rd</sup> NOVEMBER 2020</h2>
             <h3 style="font-size:1.0rem;text-transform:uppercase"> In Association With </h3>
 
             <hr id="hrr">
