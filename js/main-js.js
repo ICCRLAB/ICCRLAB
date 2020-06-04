@@ -18,7 +18,7 @@ window.onload = function (e) {
             <h1>ICCRDA-2020</h1>
 
             <h2 style="font-size:1.0rem;text-transform:uppercase">Organized by: Punjab Institute of Technology, Rajpura, Punjab, India</h2>
-             <h2 style="font-size:1.0rem">7<sup>th</sup> NOVEMBER 2020</h2>
+             <h2 style="font-size:1.0rem">24<sup>th</sup> October 2020</h2>
             <h3 style="font-size:1.0rem;text-transform:uppercase"> In Association With </h3>
 
             <hr id="hrr">
@@ -167,7 +167,7 @@ window.onload = function (e) {
     });
   }
   // Set the date we're counting down to
-var countDownDate = new Date("nov 7, 2020 12:00:00").getTime();
+var countDownDate = new Date("oct 24, 2020 12:00:00").getTime();
 
 // Update the count down every 1 second
 var x = setInterval(function() {
