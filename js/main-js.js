@@ -17,7 +17,7 @@ window.onload = function (e) {
             <h1 style="font-size: x-large">1<sup>st</sup> INTERNATIONAL CONFERENCE ON COMPUTATIONAL RESEARCH AND DATA ANALYTICS</h1>
             <h1>ICCRDA-2020</h1>
 
-            <h2 style="font-size:1.0rem;text-transform:uppercase">Organized by: Punjab Institute of Technology, Rajpura, Punjab, India</h2>
+            <!--<h2 style="font-size:1.0rem;text-transform:uppercase">Organized by: Punjab Institute of Technology, Rajpura, Punjab, India</h2>-->
              <h2 style="font-size:1.0rem">24<sup>th</sup> October 2020</h2>
             <h3 style="font-size:1.0rem;text-transform:uppercase"> In Association With </h3>
 
@@ -49,7 +49,7 @@ window.onload = function (e) {
                       <div class="col-7 col-sm-5">
                           <h5> <span class="fa fa-map-marker"></span> Address</h5>
                           <address class="address">
-                        Punjab Institute Of Technology (PIT), Rajpura<br>
+                        <br>
                         <i class="fa fa-phone"> </i> &nbsp;: +<br>
                         <i class="fa fa-fax"> </i> : +<br>
                         <i class="fa fa-envelope"> </i> : <a href="mailto:icicc.editor@gmail.com">icicc.editor@gmail.com</a>
@@ -96,7 +96,7 @@ window.onload = function (e) {
                             <div class="dropdown-menu sm-menu text-white">
                               <a class="dropdown-item text-white" href="about_iccr_lab.html">About ICCRLAB</a>
                               <div class="dropdown-divider"></div>
-                              <a class="dropdown-item text-white" href="about_institute.html">About Institute</a>
+                            <!--  <a class="dropdown-item text-white" href="about_institute.html">About Institute</a>-->
                             </div>
                           </li>
                           <li class="nav-item dropdown dmenu">
