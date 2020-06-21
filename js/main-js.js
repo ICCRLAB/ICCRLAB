@@ -130,9 +130,9 @@ window.onload = function (e) {
                         </div>
                       </li>
 
-                      <li class="nav-item">
+                   <!--   <li class="nav-item">
                         <a class="nav-link text-white " href="conference_venue.html">Conference Venue</a>
-                      </li>
+                      </li>-->
                       <li class="nav-item">
                         <a class="nav-link text-white" href="downloads.html">Downloads</a>
                       </li>
