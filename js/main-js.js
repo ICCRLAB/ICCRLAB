@@ -28,7 +28,7 @@ window.onload = function (e) {
           <div class="col-12 col-sm text-center">
 
             <img src="gallery/PicsArt_03-03-04.47.03.png" alt="" width="200" height="200">
-            <img src="gallery/pit-logo.png" alt="" class="img-fluid sponsor_image">
+            <img src="proceeding_partners/IOP NEW LOGO.png" alt="MSE" class="img-fluid sponsor_image">
           </div>
         </div>
 
