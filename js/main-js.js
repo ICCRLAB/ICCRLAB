@@ -123,8 +123,8 @@ window.onload = function (e) {
                         <a class="nav-link dropdown-toggle text-white" href="#" id="navbardrop" data-toggle="dropdown">
                           Committee
                         </a>
-                     <!--   <div class="dropdown-menu sm-menu">
-                          <a class="dropdown-item text-white" href="steering_committee.html">Steering Committee</a> -->
+                      <div class="dropdown-menu sm-menu">
+                        <!--  <a class="dropdown-item text-white" href="steering_committee.html">Steering Committee</a> -->
                           <div class="dropdown-divider"></div>
                           <a class="dropdown-item text-white" href="Advisory_and_technical_committee.html">Conference Core Committee</a>
                         </div>
