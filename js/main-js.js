@@ -8,7 +8,7 @@ window.onload = function (e) {
 
             <i id="one"><img src="gallery/PicsArt_03-03-04.47.03.png" alt="iccrlablogo" width="200" height="200"></i>
 
-            <i id="two"><img src="gallery/pit-logo.png" alt="pitlogo" class="img-fluid sponsor_image"></i>
+            <i id="two"><img src="proceeding_partners/IOP Logo.png" alt="IOP" class="img-fluid sponsor_image"></i>
             </span>
           </div>
 
