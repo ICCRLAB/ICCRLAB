@@ -155,7 +155,7 @@ window.onload = function (e) {
                       <div class="dropdown-menu sm-menu">
                         <a class="dropdown-item text-white" href="session-1.html">Session 1</a>
                         <div class="dropdown-divider"></div>
-                        <a class="dropdown-item text-white" href="#">Session 2</a>
+                        <a class="dropdown-item text-white" href="session-2.html">Session 2</a>
                         <div class="dropdown-divider"></div>
                         <a class="dropdown-item text-white" href="#">Session 3</a>
 
