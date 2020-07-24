@@ -150,15 +150,20 @@ window.onload = function (e) {
 
                       <li class="nav-item dropdown dmenu">
                       <a class="nav-link dropdown-toggle text-white" href="#" id="navbardrop" data-toggle="dropdown">
-                        Sessions
+                        Special Sessions
                       </a>
                       <div class="dropdown-menu sm-menu">
                         <a class="dropdown-item text-white" href="session-1.html">Session 1</a>
                         <div class="dropdown-divider"></div>
                         <a class="dropdown-item text-white" href="session-2.html">Session 2</a>
                         <div class="dropdown-divider"></div>
-                        <a class="dropdown-item text-white" href="#">Session 3</a>
-
+                        <a class="dropdown-item text-white" href="session-3.html">Session 3</a>
+                         <div class="dropdown-divider"></div>
+                        <a class="dropdown-item text-white" href="session-4.html">Session 4</a>
+                          <div class="dropdown-divider"></div>
+                        <a class="dropdown-item text-white" href="session-5.html">Session 5</a>
+                         <div class="dropdown-divider"></div>
+                        <a class="dropdown-item text-white" href="session-6.html">Session 6</a>
                       </div>
                     </li>
                       </ul>
