@@ -87,7 +87,7 @@ window.onload = function (e) {
                           <a class="nav-link text-white" href="index.html">Home <span class="sr-only">(current)</span></a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-white" href="#">E-adhyaye</a>
+                            <a class="nav-link text-white" href="special-session.html">Call for Special Session</a>
                           </li>
                         <li class="nav-item dropdown dmenu">
                             <a class="nav-link dropdown-toggle text-white" href="#" id="navbardrop" data-toggle="dropdown">
