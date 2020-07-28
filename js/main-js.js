@@ -6,7 +6,7 @@ window.onload = function (e) {
           <div class="mb-0 text-center col-12 col-sm col-md">
             <span id="jumbo-images1">
 
-           <i id="one"><img src="gallery/Elsevier.jpg" alt="elsevierlogo" width="150" height="150"></i>
+           <i id="one"><img src="gallery/Elsevier.jpg" alt="elsevierlogo" width="140" height="140" class="img-fluid sponsor_image">></i>
 
             <i id="two"><img src="proceeding_partners/IOP Logo.png" alt="IOP" class="img-fluid sponsor_image"></i>
             </span>
