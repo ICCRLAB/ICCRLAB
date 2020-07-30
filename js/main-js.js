@@ -164,6 +164,10 @@ window.onload = function (e) {
                         <a class="dropdown-item text-white" href="session-5.html">Session 5</a>
                          <div class="dropdown-divider"></div>
                         <a class="dropdown-item text-white" href="session-6.html">Session 6</a>
+                        <div class="dropdown-divider"></div>
+                        <a class="dropdown-item text-white" href="session-7.html">Session 7</a>
+                        <div class="dropdown-divider"></div>
+                        <a class="dropdown-item text-white" href="session-8.html">Session 8</a>
                       </div>
                     </li>
                       </ul>
