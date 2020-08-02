@@ -148,7 +148,7 @@ window.onload = function (e) {
                         <a class="nav-link text-white" href="Conference Special Sessions.html">Conference Special Sessions</a>
                       </li>
 
-                      <li class="nav-item dropdown dmenu">
+                    <!--  <li class="nav-item dropdown dmenu">
                       <a class="nav-link dropdown-toggle text-white" href="#" id="navbardrop" data-toggle="dropdown">
                         Special Sessions
                       </a>
@@ -177,7 +177,7 @@ window.onload = function (e) {
                         <div class="dropdown-divider"></div>
                         <a class="dropdown-item text-white" href="session-12.html">Session 12</a>
                         <div class="dropdown-divider"></div>
-                        <a class="dropdown-item text-white" href="session-13.html">Session 13</a>
+                        <a class="dropdown-item text-white" href="session-13.html">Session 13</a>-->
                       </div>
                     </li>
                       </ul>
