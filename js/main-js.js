@@ -6,9 +6,9 @@ window.onload = function (e) {
           <div class="mb-0 text-center col-12 col-sm col-md">
             <span id="jumbo-images1">
 
-           <i id="one"><img src="gallery/sdu_logo.jpg" alt="sdulogo" width="140" height="140" hspace= "10" class="img-fluid sponsor_image">    </i>
+           <i id="one"><img src="gallery/sdu_logo.jpg" alt="sdulogo" width="200" height="200" hspace= "15" class="img-fluid sponsor_image">    </i>
 
-            <i id="two"><img src="gallery/isparta.jpg" alt="isparta" width="140" height="140" hspace= "10" class="img-fluid sponsor_image"></i>
+            <i id="two"><img src="gallery/isparta.jpg" alt="isparta" width="200" height="200" hspace= "10" class="img-fluid sponsor_image"></i>
             </span>
           </div>
 
