@@ -6,9 +6,9 @@ window.onload = function (e) {
           <div class="mb-0 text-center col-12 col-sm col-md">
             <span id="jumbo-images1">
 
-           <i id="one"><img src="gallery/Elsevier.jpg" alt="elsevierlogo" width="140" height="140" hspace= "10" class="img-fluid sponsor_image">    </i>
+           <i id="one"><img src="gallery/sdu_logo.jpg" alt="sdulogo" width="140" height="140" hspace= "10" class="img-fluid sponsor_image">    </i>
 
-            <i id="two"><img src="proceeding_partners/IOP Logo.png" alt="IOP" class="img-fluid sponsor_image"></i>
+            <i id="two"><img src="gallery/isparta.jpg" alt="isparta" width="140" height="140" hspace= "10" class="img-fluid sponsor_image"></i>
             </span>
           </div>
 
@@ -18,11 +18,11 @@ window.onload = function (e) {
             <h1 style="font-size: x-large">ICCRDA-2020</h1>
 
             <h2 style="font-size:1.4rem";text-transform:uppercase">Jointly Organized by:                  Suleyman Demirel University, Turkey & Isparta Applied Sciences University, Turkey</h2>
-             <h2 style="font-size:1.0rem">24<sup>th</sup> October 2020</h2>
-            <h3 style="font-size:1.0rem;text-transform:uppercase"> In Association With </h3>
+             <h2 style="font-size:1.4rem">24<sup>th</sup> October 2020</h2>
+            <h3 style="font-size:1.2rem;text-transform:uppercase"> In Association With </h3>
 
             <hr id="hrr">
-            <h3 style="font-size:1.0rem;text-transform:uppercase"> Intelligent Communication and Computational Research Lab (ICCRLAB)</h3>
+            <h3 style="font-size:1.2rem;text-transform:uppercase"> Intelligent Communication and Computational Research Lab (ICCRLAB)</h3>
             <p id="demo" style="font-size:1.6rem"></p>
           </div>
           <div class="col-12 col-sm text-center">
