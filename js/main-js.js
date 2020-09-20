@@ -17,7 +17,7 @@ window.onload = function (e) {
             <h1 style="font-size: x-large">1<sup>st</sup> INTERNATIONAL CONFERENCE ON COMPUTATIONAL RESEARCH AND DATA ANALYTICS</h1>
             <h1 style="font-size: x-large">ICCRDA-2020</h1>
 
-            <h2 style="font-size:1.4rem";text-transform:uppercase">Jointly Organized by:                  Suleyman Demirel University, Turkey & Isparta Applied Sciences University, Turkey</h2>
+            <h2 style="font-size:1.4rem";text-transform:uppercase">Jointly Organized by:  Suleyman Demirel University, Turkey & Isparta Applied Sciences University, Turkey [INTERNATIONAL] and College of Engineering Roorkee, India </h2>
              <h2 style="font-size:1.4rem">24<sup>th</sup> October 2020</h2>
             <h3 style="font-size:1.2rem;text-transform:uppercase"> In Association With </h3>
 
