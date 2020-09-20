@@ -8,7 +8,7 @@ window.onload = function (e) {
 
            <i id="one"><img src="gallery/sdu_logo.jpg" alt="sdulogo" width="200" height="200" hspace= "15" class="img-fluid sponsor_image">    </i>
 
-            <i id="two"><img src="gallery/isparta.jpg" alt="isparta" width="200" height="200" hspace= "10" class="img-fluid sponsor_image"></i>  <br><br><br><br>
+            <i id="two"><img src="gallery/isparta.jpg" alt="isparta" width="200" height="200" hspace= "10" class="img-fluid sponsor_image"></i>  <br><br><br>
           <i id="two"><img src="gallery/COER.jpg" alt="COER" width="200" height="200" hspace= "10" class="img-fluid sponsor_image"></i>
             </span>
           </div>
