@@ -20,7 +20,7 @@ window.onload = function (e) {
 
             <h2 style="font-size:1.4rem";text-transform:uppercase">Organized by:  Punjab Institute of Engineering and Technology, Haryana, India </h2>
              <h2 style="font-size:1.4rem">30<sup>th</sup> April 2021</h2>
-          <marquee> <h2 style="font-size:1.4rem">ICICCR-2021 moved from Physical Mode to Digital mode due to Pandemic COVID 19.</h2></marquee>
+          <marquee> <h2 style="font-size:1.4rem">ICICCR-2021 moved from Physical Mode to Digital Mode due to Pandemic COVID 19.</h2></marquee>
 
            <!-- <h3 style="font-size:1.2rem;text-transform:uppercase"> In Association With </h3>
 
