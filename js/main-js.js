@@ -6,7 +6,7 @@ window.onload = function (e) {
           <div class="mb-0 text-center col-12 col-sm col-md">
             <span id="jumbo-images1">
 
-           <i id="one"><img src="gallery/PIET.jfif" alt="PIET" width="200" height="200" hspace= "15" class="img-fluid sponsor_image">    </i>
+           <i id="one"><img src="gallery/PIET.png" alt="PIET" width="250" height="250" hspace= "15" class="sponsor_image">    </i>
 
         <!--    <i id="two"><img src="gallery/isparta.jpg" alt="isparta" width="200" height="200" hspace= "10" class="img-fluid sponsor_image"></i>  <br><br>
           <i id="two"><img src="gallery/COER.jpg" alt="COER" width="200" height="200" hspace= "10" class="img-fluid sponsor_image"></i>-->
@@ -20,8 +20,6 @@ window.onload = function (e) {
 
             <h2 style="font-size:1.4rem";text-transform:uppercase">Organized by:  Punjab Institute of Engineering and Technology, Haryana, India </h2>
              <h2 style="font-size:1.4rem">30<sup>th</sup> April 2021</h2>
-          <marquee> <h2 style="font-size:1.4rem">ICICCR-2021 moved from Physical Mode to Digital Mode due to Pandemic COVID 19.</h2></marquee>
-
            <!-- <h3 style="font-size:1.2rem;text-transform:uppercase"> In Association With </h3>
 
             <hr id="hrr">
@@ -33,6 +31,7 @@ window.onload = function (e) {
            <img src="gallery/Springer.png" alt="" width="200" height="200">
            <!-- <img src="gallery/Springer.png" alt="MSE" class="img-fluid sponsor_image">-->
           </div>
+          <marquee> <h2 style="font-size:1.4rem">ICICCR-2021 moved from Physical Mode to Digital Mode due to Pandemic COVID 19.</h2></marquee>
         </div>
 
         `);
@@ -53,8 +52,8 @@ window.onload = function (e) {
                           <h5> <span class="fa fa-map-marker"></span> Address</h5>
                           <address class="address">
                         <br>
-                     <!--   <i class="fa fa-phone"> </i> &nbsp;: +<br>
-                        <i class="fa fa-fax"> </i> : +<br>-->
+                        <i class="fa fa-phone"> </i> &nbsp;: +<br>
+                        <i class="fa fa-fax"> </i> : +<br>
                         <i class="fa fa-envelope"> </i> : <a href="mailto:iciccr.editor@gmail.com">iciccr.editor@gmail.com</a>
                      </address>
                       </div>
@@ -97,7 +96,7 @@ window.onload = function (e) {
                               About
                             </a>
                             <div class="dropdown-menu sm-menu text-white">
-                              <a class="dropdown-item text-white" href="about_iccr_lab.html">About P.I.E.T</a>
+                              <a class="dropdown-item text-white" href="about_iccr_lab.html">About ICCRLAB</a>
                               <div class="dropdown-divider"></div>
                             <!--  <a class="dropdown-item text-white" href="about_institute.html">About Institute</a>-->
                             </div>
