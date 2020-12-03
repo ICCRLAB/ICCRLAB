@@ -97,7 +97,7 @@ window.onload = function (e) {
                               About
                             </a>
                             <div class="dropdown-menu sm-menu text-white">
-                              <a class="dropdown-item text-white" href="about_iccr_lab.html">About ICCRLAB</a>
+                              <a class="dropdown-item text-white" href="about_iccr_lab.html">About P.I.E.T</a>
                               <div class="dropdown-divider"></div>
                             <!--  <a class="dropdown-item text-white" href="about_institute.html">About Institute</a>-->
                             </div>
