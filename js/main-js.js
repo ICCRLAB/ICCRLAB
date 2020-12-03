@@ -15,12 +15,12 @@ window.onload = function (e) {
 
           <div class="col-12 col-sm col-md mb-0 text-center">
 
-            <h1 style="font-size: x-large">1<sup>st</sup> 2<sup>nd</sup> INTERNATIONAL CONFERENCE ON INTELIGENT COMMUNICATION AND COMPUTATIONAL RESEARCH </h1>
+            <h1 style="font-size: x-large">2<sup>nd</sup> INTERNATIONAL CONFERENCE ON INTELIGENT COMMUNICATION AND COMPUTATIONAL RESEARCH </h1>
             <h1 style="font-size: x-large">ICICCR-2021</h1>
 
             <h2 style="font-size:1.4rem";text-transform:uppercase">Organized by:  Punjab Institute of Engineering and Technology, Haryana, India </h2>
              <h2 style="font-size:1.4rem">30<sup>th</sup> April 2021</h2>
-           <1-- <h3 style="font-size:1.2rem;text-transform:uppercase"> In Association With </h3>
+           <!-- <h3 style="font-size:1.2rem;text-transform:uppercase"> In Association With </h3>
 
             <hr id="hrr">
             <h3 style="font-size:1.2rem;text-transform:uppercase"> Intelligent Communication and Computational Research Lab (ICCRLAB)</h3>-->
