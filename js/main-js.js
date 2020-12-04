@@ -142,9 +142,16 @@ window.onload = function (e) {
                         <a class="nav-link text-white" href="Gallary.html">Gallery</a>
                       </li>
 
-                      <li class="nav-item">
-                        <a class="nav-link text-white" href="spon_sorship.html">Previous Conferences</a>
-                      </li>
+                      <li class="nav-item dropdown dmenu">
+                            <a class="nav-link dropdown-toggle text-white" href="#" id="navbardrop" data-toggle="dropdown">
+                              Previous Conferences
+                            </a>
+                            <div class="dropdown-menu sm-menu">
+                              <a class="dropdown-item text-white" href="spon_sorship.html">ICICCR 2020</a>
+                              <div class="dropdown-divider"></div>
+                              <a class="dropdown-item text-white" href="ICCRDA.html">ICCRDA 2020</a>
+                            </div>
+                          </li> 
                       
                       <li class="nav-item">
                         <a class="nav-link text-white" href="Conference Special Sessions.html">Special Sessions</a>
