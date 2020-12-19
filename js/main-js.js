@@ -6,10 +6,10 @@ window.onload = function (e) {
           <div class="mb-0 text-center col-12 col-sm col-md">
             <span id="jumbo-images1">
 
-           <i id="one"><img src="ICCRLAB.github.io/gallery/PIET.png" alt="PIET" width="250" height="250" hspace= "15" class="sponsor_image">    </i>
+           <i id="one"><img src="ICCRLAB.github.io/gallery/BSF1.jpeg" alt="PIET" width="250" height="250" hspace= "15" class="sponsor_image">    </i>
 
-        <!--    <i id="two"><img src="gallery/isparta.jpg" alt="isparta" width="200" height="200" hspace= "10" class="img-fluid sponsor_image"></i>  <br><br>
-          <i id="two"><img src="gallery/COER.jpg" alt="COER" width="200" height="200" hspace= "10" class="img-fluid sponsor_image"></i>-->
+           <i id="two"><img src="gallery/BSF2.jpeg" alt="isparta" width="200" height="200" hspace= "10" class="img-fluid sponsor_image"></i>  <br><br>
+      <!--    <i id="two"><img src="gallery/COER.jpg" alt="COER" width="200" height="200" hspace= "10" class="img-fluid sponsor_image"></i>-->
             </span>
           </div>
 
