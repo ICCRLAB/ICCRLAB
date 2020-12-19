@@ -8,7 +8,7 @@ window.onload = function (e) {
 
            <i id="one"><img src="ICCRLAB.github.io/gallery/BSF1.jpeg" alt="PIET" width="250" height="250" hspace= "15" class="sponsor_image">    </i>
 
-           <i id="two"><img src="gallery/BSF2.jpeg" alt="isparta" width="200" height="200" hspace= "10" class="img-fluid sponsor_image"></i>  <br><br>
+      <!--     <i id="two"><img src="gallery/BSF2.jpeg" alt="isparta" width="200" height="200" hspace= "10" class="img-fluid sponsor_image"></i>  <br><br>-->
       <!--    <i id="two"><img src="gallery/COER.jpg" alt="COER" width="200" height="200" hspace= "10" class="img-fluid sponsor_image"></i>-->
             </span>
           </div>
@@ -27,7 +27,7 @@ window.onload = function (e) {
             <p id="demo" style="font-size:1.6rem"></p>
           </div>
           <div class="col-12 col-sm text-center">
-
+           <i id="two"><img src="gallery/BSF2.jpeg" alt="isparta" width="200" height="200" hspace= "10" class="img-fluid sponsor_image"></i>  <br><br>
          <!--  <img src="gallery/Springer.png" alt="" width="200" height="200">-->
            <!-- <img src="gallery/Springer.png" alt="MSE" class="img-fluid sponsor_image">-->
           </div>
