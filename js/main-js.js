@@ -134,15 +134,15 @@ window.onload = function (e) {
 
                    <!--   <li class="nav-item">
                         <a class="nav-link text-white " href="conference_venue.html">Conference Venue</a>
-                      </li>-->
+                      </li>
                       <li class="nav-item">
                         <a class="nav-link text-white" href="downloads.html">Downloads</a>
                       </li>
                       <li class="nav-item">
                         <a class="nav-link text-white" href="Gallary.html">Gallery</a>
-                      </li>
+                      </li>-->
 
-                      <li class="nav-item dropdown dmenu">
+                   <!--   <li class="nav-item dropdown dmenu">
                             <a class="nav-link dropdown-toggle text-white" href="#" id="navbardrop" data-toggle="dropdown">
                               Previous Conferences
                             </a>
@@ -151,7 +151,7 @@ window.onload = function (e) {
                               <div class="dropdown-divider"></div>
                               <a class="dropdown-item text-white" href="ICCRDA.html">ICCRDA 2020</a>
                             </div>
-                          </li> 
+                          </li>--> 
                       
                       <li class="nav-item">
                         <a class="nav-link text-white" href="Conference Special Sessions.html">Special Sessions</a>
