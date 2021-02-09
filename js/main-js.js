@@ -153,9 +153,9 @@ window.onload = function (e) {
                             </div>
                           </li>--> 
                       
-                      <li class="nav-item">
+              <!--        <li class="nav-item">
                         <a class="nav-link text-white" href="Conference Special Sessions.html">Special Sessions</a>
-                      </li>
+                      </li>-->
 
                     <!--  <li class="nav-item dropdown dmenu">
                       <a class="nav-link dropdown-toggle text-white" href="#" id="navbardrop" data-toggle="dropdown">
