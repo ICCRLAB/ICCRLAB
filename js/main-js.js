@@ -28,7 +28,7 @@ window.onload = function (e) {
           </div>
           <div class="col-12 col-sm text-center">
            <i id="two"><img src="gallery/BSF2.jpeg" alt="isparta" width="200" height="200" hspace= "10" class="img-fluid sponsor_image"></i>  <br><br>
-         <!--  <img src="gallery/Springer.png" alt="" width="200" height="200">-->
+          <img src="gallery/Scopus.jpg" alt="" width="200" height="200">
            <!-- <img src="gallery/Springer.png" alt="MSE" class="img-fluid sponsor_image">-->
           </div>
     <!--      <marquee> <h2 style="font-size:1.4rem">ICICCR-2021 moved from Physical Mode to Digital Mode due to Pandemic COVID 19.</h2></marquee>-->
