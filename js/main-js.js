@@ -19,7 +19,7 @@ window.onload = function (e) {
             <h1 style="font-size: x-large">ICICCR-2021</h1>
 
             <h2 style="font-size:1.4rem";text-transform:uppercase">Organized by: Rustamji Institute of Technology Border Security Force Academy Tekanpur, Gwalior, India </h2>
-             <h2 style="font-size:1.4rem">30<sup>th</sup> May 2021</h2>
+             <h2 style="font-size:1.4rem">25<sup>th</sup> July 2021</h2>
            <!-- <h3 style="font-size:1.2rem;text-transform:uppercase"> In Association With </h3>
 
             <hr id="hrr">
@@ -31,7 +31,7 @@ window.onload = function (e) {
           <img src="gallery/Scopus.jpg" alt="" width="200" height="200">
            <!-- <img src="gallery/Springer.png" alt="MSE" class="img-fluid sponsor_image">-->
           </div>
-          <marquee> <h2 style="font-size:1.4rem">Due to Severe COVID-19 Pandemic Conference dates are extended t0 25th July 2021.</h2></marquee>
+          <marquee> <h2 style="font-size:1.4rem">Due to Severe COVID-19 Pandemic Conference dates are extended to 25th July 2021.</h2></marquee>
         </div>
 
         `);
