@@ -31,7 +31,7 @@ window.onload = function (e) {
           <img src="gallery/Scopus.jpg" alt="" width="200" height="200">
            <!-- <img src="gallery/Springer.png" alt="MSE" class="img-fluid sponsor_image">-->
           </div>
-    <!--      <marquee> <h2 style="font-size:1.4rem">ICICCR-2021 moved from Physical Mode to Digital Mode due to Pandemic COVID 19.</h2></marquee>-->
+          <marquee> <h2 style="font-size:1.4rem">Due to Severe COVID-19 Pandemic Conference dates are extended t0 25th July 2021.</h2></marquee>
         </div>
 
         `);
